@@ -4,4 +4,6 @@
 #
 # Names should be added to this file as:
 # Name or Organization <email address>
+#Dylan Young <dylanyoung3333@gmail.com>
+#Koto Studio <dylan@koto.studio>
 
