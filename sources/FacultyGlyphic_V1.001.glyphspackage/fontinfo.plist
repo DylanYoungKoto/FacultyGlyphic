@@ -183,21 +183,21 @@ features = (
 automatic = 1;
 code = "feature locl;
 feature frac;
+feature ordn;
 feature pnum;
 feature tnum;
-feature ordn;
 feature case;
 ";
 tag = aalt;
 },
 {
 automatic = 1;
-code = "lookup ccmp_Other_1 {
+code = "lookup ccmp_DFLT_1 {
 	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb];
 	lookupflag UseMarkFilteringSet @CombiningTopAccents;
 	sub i' @CombiningTopAccents by idotless;
 	sub j' @CombiningTopAccents by jdotless;
-} ccmp_Other_1;
+} ccmp_DFLT_1;
 ";
 tag = ccmp;
 },
@@ -314,15 +314,27 @@ fontMaster = (
 customParameters = (
 {
 name = typoAscender;
-value = 785;
+value = 1037;
 },
 {
 name = typoDescender;
-value = -235;
+value = -262;
 },
 {
 name = typoLineGap;
-value = 180;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1037;
+},
+{
+name = hheaDescender;
+value = -262;
+},
+{
+name = hheaLineGap;
+value = 0;
 },
 {
 name = winAscent;
@@ -331,14 +343,6 @@ value = 965;
 {
 name = winDescent;
 value = 235;
-},
-{
-name = hheaAscender;
-value = 965;
-},
-{
-name = hheaDescender;
-value = -235;
 },
 {
 name = strikeoutPosition;
@@ -370,8 +374,6 @@ over = -14;
 pos = -260;
 },
 {
-},
-{
 pos = 557;
 },
 {
@@ -400,14 +402,6 @@ m01 = 1;
 };
 name = Regular;
 properties = (
-{
-key = postscriptFontName;
-value = "FacultyGlyphic-Regular";
-},
-{
-key = postscriptFullName;
-value = "Faculty Glyphic Regular";
-},
 {
 key = styleNames;
 values = (
@@ -1086,9 +1080,6 @@ type = baseline;
 type = descender;
 },
 {
-type = "italic angle";
-},
-{
 name = "Ascender point";
 },
 {
@@ -1154,9 +1145,6 @@ value = "Dylan Young ";
 );
 }
 );
-settings = {
-disablesNiceNames = 1;
-};
 unitsPerEm = 1000;
 userData = {
 GSDimensionPlugin.Dimensions = {
