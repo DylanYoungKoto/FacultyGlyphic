@@ -1,0 +1,44 @@
+{
+glyphname = idotaccent;
+kernLeft = i;
+kernRight = i;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(40,706,l),
+(122,623,l),
+(205,706,l),
+(122,788,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(85,147,o),
+(84,72,o),
+(67,0,c),
+(198,0,l),
+(181,72,o),
+(180,147,o),
+(180,222,cs),
+(180,505,l),
+(180,557,l),
+(47,529,l),
+(47,523,l),
+(74,478,o),
+(85,438,o),
+(85,330,cs),
+(85,222,ls)
+);
+}
+);
+width = 250;
+}
+);
+metricLeft = i;
+metricRight = i;
+}

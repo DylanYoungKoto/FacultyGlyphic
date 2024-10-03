@@ -1,0 +1,16 @@
+{
+glyphname = seven.tf;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (49,0);
+ref = seven;
+}
+);
+width = 700;
+}
+);
+}

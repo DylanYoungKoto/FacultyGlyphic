@@ -1,0 +1,21 @@
+{
+glyphname = Otilde;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (200,225);
+ref = tildecomb;
+}
+);
+width = 857;
+}
+);
+unicode = 213;
+}

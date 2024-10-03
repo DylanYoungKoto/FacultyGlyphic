@@ -1,0 +1,36 @@
+{
+glyphname = bracketleft;
+kernLeft = paren;
+kernRight = paren;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(60,-120,l),
+(399,-120,l),
+(399,-15,l),
+(362,-35,o),
+(320,-40,o),
+(242,-40,cs),
+(155,-40,l),
+(155,760,l),
+(242,760,ls),
+(320,760,o),
+(362,755,o),
+(399,735,c),
+(399,840,l),
+(60,840,l)
+);
+}
+);
+width = 449;
+}
+);
+metricLeft = "=H-10";
+metricRight = "=E";
+note = bracketleft;
+unicode = 91;
+}

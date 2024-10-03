@@ -1,0 +1,33 @@
+{
+glyphname = colon;
+kernLeft = colon;
+kernRight = colon;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(40,490,l),
+(118,412,l),
+(196,490,l),
+(118,568,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(40,93,l),
+(118,15,l),
+(196,93,l),
+(118,171,l)
+);
+}
+);
+width = 236;
+}
+);
+note = colon;
+unicode = 58;
+}
