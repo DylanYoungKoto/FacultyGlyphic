@@ -1100,7 +1100,7 @@ key = copyrights;
 values = (
 {
 language = ENG;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+value = "Copyright 2024 The Faculty Glyphic Project Authors (https://github.com/DylanYoungKoto/FacultyGlyphic)";
 }
 );
 },
@@ -1140,7 +1140,7 @@ key = manufacturers;
 values = (
 {
 language = ENG;
-value = "Dylan Young ";
+value = "Dylan Young";
 }
 );
 }
