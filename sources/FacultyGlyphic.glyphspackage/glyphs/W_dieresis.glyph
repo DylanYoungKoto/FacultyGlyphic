@@ -1,0 +1,21 @@
+{
+glyphname = Wdieresis;
+kernLeft = V;
+kernRight = V;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = W;
+},
+{
+pos = (344,225);
+ref = dieresiscomb;
+}
+);
+width = 1195;
+}
+);
+unicode = 7812;
+}

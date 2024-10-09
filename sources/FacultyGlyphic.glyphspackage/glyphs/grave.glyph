@@ -1,0 +1,21 @@
+{
+glyphname = grave;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(255,615,l),
+(189,775,l),
+(64,775,l),
+(185,615,l)
+);
+}
+);
+width = 289;
+}
+);
+unicode = 96;
+}

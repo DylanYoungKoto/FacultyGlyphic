@@ -1,0 +1,26 @@
+{
+glyphname = comma;
+kernLeft = period;
+kernRight = period;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(40,64,l),
+(101,3,l),
+(61,-106,l),
+(92,-114,l),
+(196,64,l),
+(118,142,l)
+);
+}
+);
+width = 236;
+}
+);
+note = comma;
+unicode = 44;
+}

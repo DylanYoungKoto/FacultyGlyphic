@@ -1,0 +1,16 @@
+{
+glyphname = nine.tf;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (43,0);
+ref = nine;
+}
+);
+width = 700;
+}
+);
+}

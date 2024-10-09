@@ -1,0 +1,56 @@
+{
+glyphname = I;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (148,0);
+},
+{
+name = ogonek;
+pos = (211,0);
+},
+{
+name = top;
+pos = (148,775);
+},
+{
+name = topleft;
+pos = (30,775);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(80,775,l),
+(97,703,o),
+(98,628,o),
+(98,553,cs),
+(98,222,ls),
+(98,147,o),
+(97,72,o),
+(80,0,c),
+(216,0,l),
+(199,72,o),
+(198,147,o),
+(198,222,cs),
+(198,553,ls),
+(198,628,o),
+(199,703,o),
+(216,775,c)
+);
+}
+);
+width = 296;
+}
+);
+metricLeft = "=H+10";
+metricRight = "=H+10";
+note = I;
+unicode = 73;
+}

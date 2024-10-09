@@ -1,0 +1,25 @@
+{
+glyphname = bar;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(70,840,l),
+(70,-120,l),
+(165,-120,l),
+(165,840,l)
+);
+}
+);
+width = 235;
+}
+);
+metricLeft = "=H";
+metricRight = H;
+unicode = 124;
+}

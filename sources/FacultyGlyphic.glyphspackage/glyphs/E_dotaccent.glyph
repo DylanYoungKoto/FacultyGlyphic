@@ -1,0 +1,21 @@
+{
+glyphname = Edotaccent;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (186,225);
+ref = dotaccentcomb;
+}
+);
+width = 631;
+}
+);
+unicode = 278;
+}

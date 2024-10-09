@@ -1,0 +1,49 @@
+{
+glyphname = idotless;
+kernLeft = i;
+kernRight = i;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (131,0);
+},
+{
+name = ogonek;
+pos = (202,0);
+},
+{
+name = top;
+pos = (131,550);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(94,147,o),
+(93,72,o),
+(76,0,c),
+(207,0,l),
+(190,72,o),
+(189,147,o),
+(189,222,cs),
+(189,505,l),
+(189,557,l),
+(56,529,l),
+(56,523,l),
+(83,478,o),
+(94,438,o),
+(94,330,cs),
+(94,222,ls)
+);
+}
+);
+width = 257;
+}
+);
+metricRight = l;
+unicode = 305;
+}

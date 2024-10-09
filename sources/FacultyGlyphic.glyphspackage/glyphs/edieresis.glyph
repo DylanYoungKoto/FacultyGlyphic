@@ -1,0 +1,21 @@
+{
+glyphname = edieresis;
+kernLeft = o;
+kernRight = e;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (26,0);
+ref = dieresiscomb;
+}
+);
+width = 559;
+}
+);
+unicode = 235;
+}

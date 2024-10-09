@@ -1,0 +1,52 @@
+{
+glyphname = Z;
+kernLeft = Z;
+kernRight = Z;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (356,0);
+},
+{
+name = center;
+pos = (356,388);
+},
+{
+name = top;
+pos = (356,775);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(84,775,l),
+(60,657,l),
+(114,685,o),
+(168,695,o),
+(277,695,cs),
+(483,695,l),
+(67,46,l),
+(67,0,l),
+(627,0,l),
+(651,118,l),
+(597,90,o),
+(543,80,o),
+(434,80,cs),
+(202,80,l),
+(620,729,l),
+(620,775,l)
+);
+}
+);
+width = 711;
+}
+);
+metricLeft = "=H-10";
+metricRight = "=H-10";
+note = Z;
+unicode = 90;
+}

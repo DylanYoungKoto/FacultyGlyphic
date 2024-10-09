@@ -1,0 +1,19 @@
+{
+glyphname = ibreve;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-50,0);
+ref = brevecomb;
+}
+);
+width = 257;
+}
+);
+unicode = 301;
+}
