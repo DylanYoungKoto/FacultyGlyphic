@@ -1,0 +1,44 @@
+{
+glyphname = ellipsis;
+kernLeft = period;
+kernRight = period;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(40,64,l),
+(118,-14,l),
+(196,64,l),
+(118,142,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(226,64,l),
+(304,-14,l),
+(382,64,l),
+(304,142,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(412,64,l),
+(490,-14,l),
+(568,64,l),
+(490,142,l)
+);
+}
+);
+width = 608;
+}
+);
+metricLeft = period;
+metricRight = period;
+note = ellipsis;
+unicode = 8230;
+}

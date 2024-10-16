@@ -1,0 +1,35 @@
+{
+glyphname = guillemetleft;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(20,275,l),
+(288,43,l),
+(312,62,l),
+(159,275,l),
+(312,488,l),
+(288,507,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(245,275,l),
+(513,43,l),
+(537,62,l),
+(384,275,l),
+(537,488,l),
+(513,507,l)
+);
+}
+);
+width = 557;
+}
+);
+note = guillemotleft;
+unicode = 171;
+}
