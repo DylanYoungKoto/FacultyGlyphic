@@ -1,5 +1,5 @@
 {
-.appVersion = "3260";
+.appVersion = "3319";
 .formatVersion = 3;
 customParameters = (
 {
@@ -1109,7 +1109,7 @@ key = designers;
 values = (
 {
 language = ENG;
-value = "Dylan Young";
+value = "Koto Studio, Dylan Young";
 }
 );
 },
@@ -1140,9 +1140,13 @@ key = manufacturers;
 values = (
 {
 language = ENG;
-value = "Dylan Young";
+value = "Koto Studio";
 }
 );
+},
+{
+key = manufacturerURL;
+value = "https://koto.studio/";
 }
 );
 unitsPerEm = 1000;
@@ -1161,5 +1165,5 @@ oV = "98";
 };
 };
 versionMajor = 1;
-versionMinor = 3;
+versionMinor = 4;
 }
